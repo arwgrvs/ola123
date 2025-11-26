@@ -1,3 +1,11 @@
+h1{
+    color: darkblue;
+    font-size: xx-large;
+    font-family: monospace;
+}
+body{
+    background-image: url(https://2.bp.blogspot.com/-oSNZImzEx5U/VIXigEJueCI/AAAAAAACakc/zbCqSiePNkE/s1600/Feliz-Navidad-Tarjetas-con-Mensajes.png);
+}
 .caja
 {
     width: 200px;
